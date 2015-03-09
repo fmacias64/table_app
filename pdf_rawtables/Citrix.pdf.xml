@@ -1,0 +1,3 @@
+/Users/feiran/workspace/release/deepdive/app/deeptable/udf/../tables_tmp/Citrix
+pdftohtml -enc ASCII7 -xml /Users/feiran/workspace/release/deepdive/app/deeptable/data/Citrix.pdf /Users/feiran/workspace/release/deepdive/app/deeptable/udf/../tables_tmp/Citrix/Citrix
+Error on line 7453 of document file:///Users/feiran/workspace/release/deepdive/app/deeptable/udf/../tables_tmp/Citrix/Citrix.xml: The element type "text" must be terminated by the matching end-tag "</text>".
